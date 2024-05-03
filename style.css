@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+:root {
+    --branco-principal: #da1254;
+    --cinza-secundario: #C0C0C0;
+    --botao-azul: #f7fbfc;
+    --cor-de-fundo: #040405;
+}
+body {
+        background-color: var(--cor-de-fundo);
+        color: var(--branco-principal);
+ }        
+
+
